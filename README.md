@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hey there, I'm Suraj 👋</h1>
+<h1 align="center">Hey there, I'm Pradyumna 👋</h1>
 <h3 align="center">🚀 Creative Frontend Engineer crafting seamless digital experiences</h3>
 
 <p align="center">
@@ -24,14 +24,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajbhat0813&show_icons=true&theme=radical&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajbhat0813&layout=compact&theme=radical&hide_border=true" height="170" />
-</p>
-
----
 
 ### ⚙️ GitHub Activity Graph
 
@@ -41,13 +33,6 @@
 
 ---
 
-### 🏆 Trophies & Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=surajbhat0813&theme=onestar&no-frame=true&row=1&margin-w=10" />
-</p>
-
----
 
 ### 💬 Quote of the Day
 
@@ -57,24 +42,16 @@
 
 ---
 
-### 🎵 Now Playing on Spotify (Optional)
-<!-- Uncomment below line and replace with your Spotify user ID if you use Spotify -->
-<!-- <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Now Playing on Spotify" />
-</p> -->
-
----
-
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/suraj-bhat-792299268/" target="_blank">
+  <a href="https://www.linkedin.com/in/bhardwaj-pradyumna/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:bhatsuraj22@gmail.com">
+  <a href="mailto:bhardwaj.pradyumn.pb@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/surajbhat0813" target="_blank">
+  <a href="https://github.com/Pradyumna-Bhardwaj/Pradyumna-Bhardwaj" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
