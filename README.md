@@ -19,7 +19,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,typescript,javascript,html,css,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,typescript,javascript,html,css,git,docker,aws,nodejs" />
 </p>
 
 ---
@@ -28,7 +28,7 @@
 ### ⚙️ GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=surajbhat0813&theme=react-dark&bg_color=000000&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pradyumna-Bhardwaj&theme=react-dark&bg_color=000000&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -64,4 +64,4 @@
 
 ---
 
-<p align="center">✨ Built with passion & precision — <b>Suraj Bhat (aka surajbhat0813)</b> 🚀</p>
+<p align="center">✨ Built with passion & precision — <b>Pradyumna Bhardwaj</b> 🚀</p>
