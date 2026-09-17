@@ -1,7 +1,7 @@
 <h1 align="center">Pradyumna Bhardwaj</h1>
 
 <p align="center">
-  Frontend Engineer focused on building thoughtful, performant web experiences
+  Full-Stack Developer building thoughtful, reliable, and performant web experiences
 </p>
 
 <p align="center">
@@ -15,25 +15,19 @@
 
 ## About
 
-I am a frontend engineer who builds responsive, visually polished, and high-performance web applications. I enjoy combining design thinking with engineering precision to create intuitive digital experiences and maintainable products.
+Hello! I am Pradyumna, a full-stack developer who enjoys turning ideas into polished, practical web applications. I work across the stack—from creating responsive and intuitive interfaces to developing the server-side functionality that supports them.
 
-My primary focus is the modern JavaScript ecosystem, particularly React, Next.js, TypeScript, and Tailwind CSS. I am continuously refining my craft through hands-on development and experimentation with new tools and approaches.
+My primary focus is the modern JavaScript ecosystem, particularly React, Next.js, TypeScript, Node.js, and Tailwind CSS. I care about thoughtful design, clean implementation, and dependable performance, and I continuously refine my craft through hands-on development and experimentation.
 
 ## Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,typescript,javascript,html,css,nodejs,git,docker,aws&perline=6" alt="Next.js, React, Redux, Tailwind CSS, TypeScript, JavaScript, HTML, CSS, Node.js, Git, Docker, and AWS" />
-</p>
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pradyumna-Bhardwaj&theme=github-compact&hide_border=true" alt="Pradyumna Bhardwaj's GitHub activity graph" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,typescript,javascript,html,css,nodejs,git,docker,aws&perline=12" alt="Next.js, React, Redux, Tailwind CSS, TypeScript, JavaScript, HTML, CSS, Node.js, Git, Docker, and AWS" />
 </p>
 
 ## Contact
 
-I am always interested in discussing frontend engineering, product development, and new opportunities.
+I am always interested in discussing full-stack engineering, product development, and new opportunities.
 
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/bhardwaj-pradyumna/)
 - [Send me an email](mailto:bhardwaj.pradyumn.pb@gmail.com)
